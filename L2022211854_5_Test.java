@@ -3,7 +3,7 @@ package org.example;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
-
+// good
 class L2022211854_5_Test {
 
   @Test
